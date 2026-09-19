@@ -10,3 +10,7 @@ public:
         return false;
     }
 };
+
+
+//TC = N(AVG case)
+//SC = N
