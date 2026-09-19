@@ -10,3 +10,7 @@ public:
         return false;
     }
 };
+
+//sorting = NlogN 
+//loop = N
+//TC = NlogN + N = NlogN
